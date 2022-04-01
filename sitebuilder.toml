@@ -1,0 +1,11 @@
+# ============================
+#    SiteBuilder config file
+# ============================
+
+# Add the URIs to your sources.
+assets = "https://github.com/nodoambiental/site.assets.git"
+source = "https://github.com/nodoambiental/site.source.git"
+content = "https://github.com/nodoambiental/site.content.git"
+data = "https://github.com/nodoambiental/site.data.git"
+
+# output = "dist" # Specify output directory for the built site.
