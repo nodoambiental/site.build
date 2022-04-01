@@ -1,0 +1,12 @@
+[submodule "content"]
+	path = content
+	url = https://github.com/nodoambiental/site.content.git
+[submodule "assets"]
+	path = assets
+	url = https://github.com/nodoambiental/site.assets.git
+[submodule "data"]
+	path = data
+	url = https://github.com/nodoambiental/site.data.git
+[submodule "source"]
+	path = source
+	url = https://github.com/nodoambiental/site.source.git
